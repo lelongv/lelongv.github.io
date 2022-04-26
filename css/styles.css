@@ -1,0 +1,16 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.display-1 {
+  padding-left: 1rem;
+}
+
+.footer {
+  padding-left: 1rem;
+}
+
+body {
+  padding-left: 5%;
+  padding-right: 5%;
+}
