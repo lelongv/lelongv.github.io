@@ -3,7 +3,9 @@ html {
 }
 
 .display-1 {
-  padding-left: 1rem;
+  font-family: 'Roboto Slab';
+  font-weight: 400;
+  color: #252627;
 }
 
 .footer {
@@ -11,6 +13,56 @@ html {
 }
 
 body {
-  padding-left: 5%;
-  padding-right: 5%;
+  background-color: #F2EFE9;
+}
+
+.nav-item {
+  font-family: 'Roboto Slab';
+  font-weight: 300;
+  font-size: 30px;
+  color: #252627;
+}
+
+.top50 {
+  padding-top: 50px;
+}
+
+.display-2 {
+  font-family: 'Roboto';
+  font-weight: 400;
+  color: #252627;
+}
+
+.description {
+  font-family: 'Palanquin';
+}
+
+.font-weight-bold {
+  font-weight: 700;
+}
+
+.ml-5 {
+  margin-left: 5%
+}
+
+.mr-5 {
+  margin-right: 5%;
+}
+
+.navbar {
+  margin-left: 2.5%;
+  margin-right: 2.5%
+}
+
+a {
+  text-decoration: none;
+  color: #252627;
+}
+
+.nav-link:hover, .nav-link:focus {
+  background-color: #BFB48F;
+}
+
+p {
+  color: #252627;
 }
