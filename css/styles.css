@@ -67,20 +67,20 @@ p {
   color: #252627;
 }
 
-.card {
+.portfolio {
   background-color: #BFB48F;
+  color: #252627;
 }
 
 .card-header {
   font-family: 'Roboto Slab';
   font-weight: 700;
   font-size: xx-large;
-  color: #252627;
+
 }
 
 .card-body {
   font-family: 'Roboto';
-  color: #252627;
   font-size: large;
   font-weight: 300;
 }
@@ -88,6 +88,34 @@ p {
 .card-footer {
   font-family: 'Palanquin';
   font-size: medium;
-  color: #252627;
   font-weight: 100;
+}
+
+.experience {
+  background-color: #252627;
+  color: white;
+}
+
+.list-group-item {
+  background-color: #252627;
+  color: white;
+  font-weight: 100;
+}
+
+.card-subtitle {
+  font-family: 'Palanquin';
+}
+
+.shadow-custom {
+  box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .25), 0 3px 20px 14px rgba(0, 0, 0, 0.14) !important;
+}
+
+.btn-outline-primary {
+  border-color: #252627;
+  color: #252627;
+}
+
+.btn-outline-primary:hover, .btn-outline-primary:focus {
+  background-color: #252627;
+  color: white;
 }
