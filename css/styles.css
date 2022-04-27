@@ -100,6 +100,7 @@ p {
   background-color: #252627;
   color: white;
   font-weight: 100;
+  font-family: 'Palanquin';
 }
 
 .card-subtitle {
@@ -117,5 +118,29 @@ p {
 
 .btn-outline-primary:hover, .btn-outline-primary:focus {
   background-color: #252627;
+  color: white;
+}
+
+.experience .card-header {
+  background-color: rgba(0,0,0,.20);
+}
+
+.contact {
+  background-color: #F2EFE9;
+}
+
+.btn {
+  font-family: 'Roboto';
+}
+
+.btn-primary {
+  background-color: #BFB48F;
+  border-color: #BFB48F;
+  color: #252627;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+  background-color: #904E55;
+  border-color: #904E55;
   color: white;
 }
