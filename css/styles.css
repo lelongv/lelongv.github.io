@@ -4,7 +4,7 @@ html {
 
 .display-1 {
   font-family: 'Roboto Slab';
-  font-weight: 400;
+  font-weight: 100;
   color: #252627;
 }
 
@@ -65,4 +65,29 @@ a {
 
 p {
   color: #252627;
+}
+
+.card {
+  background-color: #BFB48F;
+}
+
+.card-header {
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-size: xx-large;
+  color: #252627;
+}
+
+.card-body {
+  font-family: 'Roboto';
+  color: #252627;
+  font-size: large;
+  font-weight: 300;
+}
+
+.card-footer {
+  font-family: 'Palanquin';
+  font-size: medium;
+  color: #252627;
+  font-weight: 100;
 }
