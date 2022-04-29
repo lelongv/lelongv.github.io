@@ -35,6 +35,7 @@ body {
 
 .description {
   font-family: 'Palanquin';
+  border-color: #904E55 !important;
 }
 
 .font-weight-bold {
@@ -127,6 +128,7 @@ p {
 
 .contact {
   background-color: #F2EFE9;
+  border-color: #904E55 !important;
 }
 
 .btn {
@@ -143,4 +145,8 @@ p {
   background-color: #904E55;
   border-color: #904E55;
   color: white;
+}
+
+.img-fluid {
+  max-width: 60%;
 }
